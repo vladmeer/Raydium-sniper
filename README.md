@@ -13,6 +13,8 @@ Interested in Getting the Full Sniper Tool?
 
 If you’re impressed by the demo and want to start sniping tokens like a pro, I can share the entire sniper with you. To get started, just reach out: 
 
+## With validator node
+By utilizing a validator node on Solana, you can execute buy orders within the same block as a token's launch. This gives you a significant advantage by allowing you to secure early entry before most traders, minimizing slippage and maximizing potential gains. Since validator nodes have direct access to pending transactions, they can detect new token launches in real-time and execute trades instantly, ensuring you are among the first to participate. 🚀
 ## 👤 Author 
 
 ### Telegram: [Vladmeer](https://t.me/vladmeer67)    
